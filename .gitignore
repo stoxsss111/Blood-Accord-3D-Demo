@@ -1,0 +1,66 @@
+# ========== Unity-specific ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Rider & VS
+.idea/
+.vscode/
+*.sln
+*.csproj
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.userprefs
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# JetBrains Rider
+*.sln.iml
+
+# VS Code
+.vscode/
+.history/
+
+# Crash & Debug
+*.stacktrace
+*.log
+
+# Unity Cache / Asset Import
+*.apk
+*.aab
+*.unitypackage
+*.pidb.meta
+
+# Git LFS metadata
+*.lfsconfig
+
+# Package manager
+Packages/packages-lock.json
+
+# ========== Optional (в зависимости от проекта) ==========
+
+# CI/CD
+*.yaml
+
+# Бэкапы
+*.bak
+*.old
+*.orig
+
+# Cloud Build / Collaborate
+.collabignore
+.collab/
